@@ -63,21 +63,35 @@ experiences.
 
 ---
 
-## 📊 GitHub Stats
+
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sena0616&show_icons=true&theme=tokyonight&hide_border=true&title_color=BB9AF7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=0D1117" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=sena0616&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sena GitHub Stats"
+    width="450"
+  />
 
-<br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sena0616&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=9D7CD8&currStreakLabel=BB9AF7" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=sena0616&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="450"
+  />
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena0616&layout=compact&theme=tokyonight&hide_border=true&title_color=BB9AF7&text_color=C0CAF5&bg_color=0D1117" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sena0616&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="350"
+  />
 
 </div>
+
 
 ---
 
