@@ -68,14 +68,6 @@ experiences.
 <div align="center">
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=sena0616&show_icons=true&theme=tokyonight&hide_border=true"
-    width="450"
-    alt="Sena GitHub Stats"
-  />
-
-  <br/><br/>
-
-  <img
     src="https://streak-stats.demolab.com?user=sena0616&theme=tokyonight&hide_border=true"
     width="450"
     alt="GitHub Streak"
@@ -90,7 +82,6 @@ experiences.
   />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
