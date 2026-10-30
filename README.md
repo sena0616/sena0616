@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Sena! 👋🏻
+# Hi there, I'm Sena! 
 
 ### 💜 Informatics Engineering Student
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌷 About Me
+##  About Me
 
 Hello! I'm **Sena**, an Informatics Engineering student at
 **Institut Teknologi Sumatera (ITERA)**.
@@ -39,7 +39,7 @@ experiences.
 
 ---
 
-## 💜 Tech Stack
+##  Tech Stack
 
 ### Languages & Web Technologies
 
