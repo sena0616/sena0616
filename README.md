@@ -63,35 +63,33 @@ experiences.
 
 ---
 
-
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=sena0616&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sena GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=sena0616&show_icons=true&theme=tokyonight&hide_border=true"
     width="450"
+    alt="Sena GitHub Stats"
   />
 
   <br/><br/>
 
   <img
     src="https://streak-stats.demolab.com?user=sena0616&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
     width="450"
+    alt="GitHub Streak"
   />
 
   <br/><br/>
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sena0616&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sena0616&layout=compact&theme=tokyonight&hide_border=true"
     width="350"
+    alt="Top Languages"
   />
 
 </div>
-
 
 ---
 
