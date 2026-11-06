@@ -5,7 +5,7 @@
 
 ### 💜 Informatics Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Frontend+Development+Enthusiast;Learning+React+and+JavaScript;Keep+learning%2C+keep+growing!" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Frontend+Development+Enthusiast;Learning+React+python+and+JavaScript;Keep+learning%2C+keep+growing!" alt="Typing animation" />
 
 <br/>
 
